@@ -1,9 +1,9 @@
 ---
 title: "Tạo Corridor từ Alignment và Assembly bằng Dynamo Civil 3D"
-meta_title: "Tạo Corridor từ Alignment và Assembly bằng Dynamo Civil 3D"
+meta_title: "Tạo Corridor từ Alignment và Assembly bằng Dynamo Civil 3D - Boo Space"
 description: "Việc tạo Corridor trong Civil 3D liên quan đến việc mô hình hóa các tuyến đường hoặc các dự án tuyến tính khác một cách chính xác là điều cần thiết. Sử dụng Dynamo Civil 3D giúp tăng cường quy trình này bằng cách tự động hóa các tác vụ lặp đi lặp lại, đảm bảo tính nhất quán trong thiết kế và giảm thời gian làm việc."
 date: 2024-12-28T12:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/autodesk/dynamo/banner-dynamo.png"
 categories: ["Civil Engineering"]
 author: "Boo"
 tags: ["Autodesk Civil 3D", "Dynamo"]
@@ -11,7 +11,7 @@ draft: false
 ---
 
 Trong thiết kế hạng mục giao thông bằng phần mềm Autodesk Civil 3D, việc tạo Corridor từ Alignment và Assembly là rất quan trọng để tạo dựng mô hình và thiết kế dự án chính xác. Sử dụng Dynamo Civil 3D, kết hợp với các gói **Camber và Civil3DToolkit**, cung cấp khả năng tự động hóa mạnh mẽ để hợp lý hóa quy trình này. Blog này sẽ hướng dẫn bạn các bước để tạo Alignment và Assembly bằng Dynamo (IronPython), dựa trên các tham số đầu vào từ tệp Excel đã lập sẵn.
-![inVideoAI](/static/images/dynamo/1.png)
+![inVideoAI](/images/autodesk/dynamo/1.png)
 
 ### Giới thiệu
 
@@ -53,7 +53,7 @@ Sử dụng các nút [Dynamo](https://boogu.gumroad.com/l/tocreateaCorridorfrom
 #### Bước 4: Thực thi tập lệnh
 
 Chạy tập lệnh [Dynamo](https://boogu.gumroad.com/l/tocreateaCorridorfromAlignmentandAssembly?layout=profile) để tự động tạo, Corridor dựa theo các số liệu đầu vào từ excel.
-![inVideoAI](/static/images/dynamo/2.png)
+![inVideoAI](/images/autodesk/dynamo/2.png)
 
 ### Lợi ích của Tự động hóa
 
@@ -71,4 +71,3 @@ Xem trang chủ để biết thêm nhiều thông tin: [Boo Space Blog]()
 Kho tài nguyên của trang: [Boo Space Gumroad](https://boospace.gumroad.com)
 
 Các sản phẩm kèm them: [Linktr](https://linktr.ee/boospace)
-    

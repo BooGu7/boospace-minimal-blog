@@ -1,9 +1,9 @@
 ---
 title: "Hướng Dẫn Git Cơ Bản: Các Lệnh và Thuật Ngữ Thông Dụng"
-meta_title: "Hướng Dẫn Git Cơ Bản: Các Lệnh và Thuật Ngữ Thông Dụng"
+meta_title: "Hướng Dẫn Git Cơ Bản: Các Lệnh và Thuật Ngữ Thông Dụng - Boo Space"
 description: "Git là một hệ thống kiểm soát phiên bản (Version Control System - VCS) phổ biến nhất hiện nay, giúp quản lý mã nguồn hiệu quả khi làm việc nhóm hoặc cá nhân. Đối với người mới bắt đầu, Git có thể khá phức tạp, nhưng một khi bạn nắm vững các lệnh và thuật ngữ cơ bản, nó sẽ trở thành một công cụ rất hữu ích. Trong bài viết này, chúng ta sẽ tìm hiểu một số thuật ngữ và lệnh Git cơ bản kèm theo các ví dụ thực tế."
 date: 2024-12-28T12:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/webdeveloper/banner-git.png"
 categories: ["Web Developer"]
 author: "Boo"
 tags: ["git"]
