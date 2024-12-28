@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Chủ đề",
+      "url": "/categories"
+    },
+    {
       "name": "Blog",
       "url": "/blog"
     },
