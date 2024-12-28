@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+title: "Các sản phẩm decor hot nhất năm 2024"
+image: "/images/noithat/Caythongnoel-MinimalHomeSpace.jpg"
+description: "sdfsdfdfsf"
 button:
   enable: true
-  label: "Get Started Now"
+  label: "Xem ngay"
   link: "https://github.com/zeon-studio/astroplate"
 ---
